@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "express-session": "^1.16.2",
     "helmet": "^3.18.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "knex": "^0.17.5",
     "sqlite3": "^4.0.9"
   },
